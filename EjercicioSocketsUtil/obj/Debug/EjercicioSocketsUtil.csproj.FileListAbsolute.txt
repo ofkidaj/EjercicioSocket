@@ -1,0 +1,6 @@
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\EjercicioSockets\EjercicioSocketsUtil\bin\Debug\EjercicioSocketsUtil.dll
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\EjercicioSockets\EjercicioSocketsUtil\bin\Debug\EjercicioSocketsUtil.pdb
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\EjercicioSockets\EjercicioSocketsUtil\obj\Debug\EjercicioSocketsUtil.csproj.AssemblyReference.cache
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\EjercicioSockets\EjercicioSocketsUtil\obj\Debug\EjercicioSocketsUtil.csproj.CoreCompileInputs.cache
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\EjercicioSockets\EjercicioSocketsUtil\obj\Debug\EjercicioSocketsUtil.dll
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\EjercicioSockets\EjercicioSocketsUtil\obj\Debug\EjercicioSocketsUtil.pdb
